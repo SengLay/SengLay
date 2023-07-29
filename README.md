@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](./github-header-image.png)
+![logo](./github-header.png)
