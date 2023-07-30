@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ***I don't know any fun facts...***
 
 <!-- ![Alt text](./NUX_Octodex.gif) -->
-<img align="right" width="400" height="400" src="./daftpunktocat-guy.gif"/>
+<img align="right" width="380" height="380" src="./daftpunktocat-guy.gif"/>
 
 <h3 align="left">
   Connect with me:
