@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me **senglay.lay333@gmail.com**
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: **I don't know any fun facts...**
 <!-- ![Alt text](./NUX_Octodex.gif) -->
 <img align="right" width="400" height="400" src="./daftpunktocat-guy.gif"/>
 
