@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me **senglay.lay333@gmail.com**
 <!-- - ⚡ Fun fact: ... -->
 ![Alt text](./NUX_Octodex.gif)
+<style>
+.my-gif {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
