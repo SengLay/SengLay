@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img align="right" width="380" height="380" src="./daftpunktocat-guy.gif"/>
 
 <h3 align="left">
-  Connect with me:
+  :inbox_tray: Connect with me:
 </h3>
 
 <p align="left">
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
