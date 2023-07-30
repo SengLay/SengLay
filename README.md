@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-[![Seng Lay's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=senglay&theme=tokyonight&show_icons=true&width="400"&height="400")](https://github.com/senglay)
+[![Seng Lay's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
 
