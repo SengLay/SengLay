@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
-- 💬 Ask me about Python or other programming languages or about my projects...
+- 💬 Ask me about ***Python or other programming languages or about my projects...***
 - 📫 How to reach me **senglay.lay333@gmail.com**
 - ⚡ Fun fact: **I don't know any fun facts...**
 <!-- ![Alt text](./NUX_Octodex.gif) -->
