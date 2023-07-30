@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   A highly motivated and results-oriented student with a passion for technology. I'm eager to gain hands-on experience in the field of data science. Moreover, I'm also passionate in ML and AI.
 </h3>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... -->
+- 🔭 I’m currently working on ***Job Analysis - Salary Prediction Project***
 - 💬 Ask me about ***Python or other programming languages or about my projects...***
 - 📫 How to reach me **senglay.lay333@gmail.com**
 - ⚡ Fun fact: ***I don't know any fun facts...***
