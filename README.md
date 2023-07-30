@@ -21,11 +21,25 @@ Here are some ideas to get you started:
   Hi 👋, I'm SENG Lay
 </h1> -->
 
-![](https://komarev.com/ghpvc/?username=senglay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<!-- ![](https://komarev.com/ghpvc/?username=senglay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senglay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt=""/>
+</p>
+
 
 <h3 align="center">
   A highly motivated and results-oriented student with a passion for technology. I'm eager to gain hands-on experience in the field of data science. Moreover, I'm also passionate in ML and AI.
