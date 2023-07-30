@@ -113,7 +113,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Seng Lay's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
-
 [![Seng Lay's Github stream stats](https://github-readme-streak-stats.herokuapp.com/?user=senglay&theme=dark)](https://github.com/senglay)]
