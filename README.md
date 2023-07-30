@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   Hi 👋, I'm SENG Lay
 </h1> -->
 
+![](https://komarev.com/ghpvc/?username=senglay&color=ff69b4&style=flat)
+
 <h3 align="center">
   A highly motivated and results-oriented student with a passion for technology. I'm eager to gain hands-on experience in the field of data science. Moreover, I'm also passionate in ML and AI.
 </h3>
