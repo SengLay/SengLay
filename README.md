@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=senglay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 <h3 align="center">
