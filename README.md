@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... -->
 - 📫 How to reach me **senglay.lay333@gmail.com**
 <!-- - ⚡ Fun fact: ... -->
-![Alt text](name_of_your_gif_file.gif)
+![Alt text](./NUX_Octodex.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
