@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senglay&top=20&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en&layout=compact" alt="senglay" /></p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senglay)](https://github.com/senglay/github-readme-stats&theme=tokyonigh) -->
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senglay&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="senglay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senglay&theme=dark" alt="senglay" /></p>
