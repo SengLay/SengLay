@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=senglay&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h3 align="center">
   A highly motivated and results-oriented student with a passion for technology. I'm eager to gain hands-on experience in the field of data science. Moreover, I'm also passionate in ML and AI.
 </h3>
