@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 [![Seng Lay's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senglay&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="senglay" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senglay&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="senglay" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=senglay&theme=tokyonight&show_icons=true)](https://github.com/senglay)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senglay&theme=dark" alt="senglay" /></p>
